@@ -11,7 +11,7 @@ var googleLangList = ['English: en'];
 
 // Default hedings and labels
 var defaultLabels = {dropBoxes: "Assignment Folders", dropBox: "Assignment Folder", period: "Period", edit: "Edit", view: "View", teacher: "Teacher", saved: "false"};
-var defaultHeadings ={sFname: "Student First Name", sLname: "Student Last Name", sEmail: "Student Email", clsName: "Class Name", clsPer: "Period ~Optional~", tEmail: "Teacher Email(s)"}; 
+var defaultHeadings ={sFname: "Teacher First Name", sLname: "Teacher Last Name", sEmail: "Teacher Email", clsName: "School Name"/*, clsPer: "Period ~Optional~", tEmail: "Teacher Email(s)"*/}; 
 var defaultHeadingsI ={sFname: "sFname", sLname: "sLname", sEmail: "sEmail", clsName: "clsName", clsPer: "clsPer", tEmail: "tEmail"};
 var defaultIDs ={status: "Status", assignmentFID: "Assignment Folder ID",classRootFID: "Class Root Folder ID", classViewFID: "Class View Folder ID", classEditFID: "Class Edit Folder ID", rootStudentFID: "Root Student Folder ID",teacherFID: "Teacher Folder ID", teacherShareStatus: "Teacher Status" };
 var defaultIDsI ={status: "status", assignmentFID: "assignmentFID",classRootFID: "classRootFID", classViewFID: "classViewFID", classEditFID: "classEditFID", rootStudentFID: "rootStudentFID",teacherFID: "teacherFID", teacherShareStatus: "tStatus" };
